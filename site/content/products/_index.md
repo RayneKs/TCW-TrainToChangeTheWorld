@@ -4,7 +4,7 @@ type: products
 image: /img/products-jumbotron.jpg
 heading: WHAT WE OFFER
 description: >-
-  Kaldi is the ULTIMATE spot for coffee lovers who want to learn about their
+  Train to Change the World is the ULTIMATE spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
