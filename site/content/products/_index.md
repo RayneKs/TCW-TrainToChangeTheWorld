@@ -2,7 +2,7 @@
 title: Our Coffee
 type: products
 image: /img/products-jumbotron.jpg
-heading: WHAT WE OFFER
+heading: what we offer
 description: >-
   Train to Change the World is the ULTIMATE spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
