@@ -1,7 +1,7 @@
 ---
 title: "UNRAVEL HUMAN POTENTIAL"
 subtitle: We're an attitude and a movement
-image: /img/home-jumbotron.jpg
+image: /img/no1.svg
 blurb:
     heading: What is TCW - Train to Change the World
     text: "It's a mindset. With it you harness the power of your body, mind
