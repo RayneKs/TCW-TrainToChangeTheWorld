@@ -1,13 +1,16 @@
 ---
 title: "UNRAVEL HUMAN POTENTIAL"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: We're an attitude and a movement
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why TCW?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: What is TCW - Train to Change the World
+    text: "It's a mindset. With it you harness the power of your body, mind
+& spirit to fully cope with the challenges of life."
 intro:
-    heading: "WHAT WE OFFER"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "What We Offer"
+    text: "We offer Training programs that cover much of Human endurance, strength, agility, flexibility & technique. Ranged over Martial Arts and Athletic Training that develops all key areas of physical Human endowment.
+
+    We also combine this perspective & approach with apparel called the ‘5LINE’ which currently offers tops, bottoms and hats in varying designs of excellent quality."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
